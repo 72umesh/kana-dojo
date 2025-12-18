@@ -716,9 +716,9 @@ const baseThemeSets: BaseThemeGroup[] = [
       },
       {
       id: 'kyoto-lanterns',
-      backgroundColor: 'oklch(22.10% 0.0310 265.00 / 1)',      // deep indigo night
-      mainColor:        'oklch(78.90% 0.1820 50.00 / 1)',       // bright lantern orange/gold
-      secondaryColor:   'oklch(84.20% 0.1200 90.00 / 1)',       // softer warm amber
+      backgroundColor: 'oklch(22.10% 0.0310 265.00 / 1)', 
+      mainColor:        'oklch(78.90% 0.1820 50.00 / 1)',     
+      secondaryColor:   'oklch(84.20% 0.1200 90.00 / 1)',     
       },
     ]
   },
